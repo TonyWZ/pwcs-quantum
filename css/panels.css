@@ -104,3 +104,7 @@ body{
 .bottom-margin{
   margin-bottom: 50px;
 }
+
+.text-left-align{
+  text-align: left;
+}
